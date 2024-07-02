@@ -16,13 +16,13 @@
 
 ## 👨‍💻 About me
 
-I'm a Senior Software Engineer with over a decade of experience in software development. I am passionate about solving complex problems and creating efficient, scalable solutions. Based in England, UK, I have a strong background in backend development with Java, frontend development with ReactJS, and expertise in NodeJS, TypeScript, and Golang.
+I'm a Senior Software Engineer with over a decade of experience in software development. I am passionate about solving complex problems and creating efficient, scalable solutions. Based in England, UK, I have a strong background in backend development with Java and Kotlin, frontend development with ReactJS, and expertise in NodeJS, TypeScript, and Golang.
 
-- 🔭 I'm working for [British Telecom](https://www.bt.com/) as a **Senior Software Engineer**
-- 📌 I'm a Brazillian who lives in **England, UK**
-- 🌱 Currently, as a hobby, I'm learning `Android Development`
-- 🏖️ In my free time, I like to go for a walk in the beach or in a park
-- 😄 Pronouns: he/him/his
+- 🔭 Currently working for [British Telecom](https://www.bt.com/) as a **Senior Software Engineer**
+- 📌 A Brazilian living in **England, UK**
+- 🌱 Learning `Android Development` as a hobby
+- 🏖️ Enjoy walking on the beach or in parks in my free time
+- 😄 Pronouns: **he/him/his**
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/enikolas)
 
 ## :hammer_and_wrench: Technical Skills
