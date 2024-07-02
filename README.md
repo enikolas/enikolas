@@ -14,19 +14,18 @@
 
 # Hey 👋, I'm ~Everton~ Nikolas de Oliveira, or just Nik
 
-### 👨‍💻 About me
-I'm a full stack developer.
+## 👨‍💻 About me
+
+I'm a Senior Software Engineer with over a decade of experience in software development. I am passionate about solving complex problems and creating efficient, scalable solutions. Based in England, UK, I have a strong background in backend development with Java, frontend development with ReactJS, and expertise in NodeJS, TypeScript, and Golang.
 
 - 🔭 I'm working for [British Telecom](https://www.bt.com/) as a **Senior Software Engineer**
 - 📌 I'm a Brazillian who lives in **England, UK**
-- 🌱 Currently, as a hobby, I'm learning `Kotlin`, `Kubernetes` and `Android Development`
+- 🌱 Currently, as a hobby, I'm learning `Android Development`
 - 🏖️ In my free time, I like to go for a walk in the beach or in a park
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/enikolas)
 
----
-
-### :hammer_and_wrench: Feature Skills:
+## :hammer_and_wrench: Technical Skills
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
@@ -49,3 +48,17 @@ I'm a full stack developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+**Programming Languages:**
+- Java, Kotlin, JavaScript, TypeScript, Go
+
+**Frontend Development:**
+- ReactJS, Redux, VueJS
+
+**Backend Development:**
+- NodeJS, Spring Boot
+
+**Tools and Technologies:**
+- Docker, Kubernetes, AWS, GCP, Git, CI/CD, Microservices, RESTful APIs, GraphQL, gRPC
