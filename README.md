@@ -10,17 +10,17 @@
         alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=enikolas&style=flat-square&color=blue" alt=""/>
 </div>
 
 # Hey 👋, I'm ~Everton~ Nikolas de Oliveira, or just Nik
 
 ### 👨‍💻 About me
-A full stack developer from Brazil, working since 2010.
+I'm a full stack developer.
 
-- 🔭 I'm working for [Daitan an Encora Company](https://daitan.com/) as a **Software Engineer Tech Lead**
-- 🌱 Currently, I'm learning [GO](https://go.dev)
-- 🍺 In my free time, I'm a homebrewer
+- 🔭 I'm working for [British Telecom](https://www.bt.com/) as a **Senior Software Engineer**
+- 📌 I'm a Brazillian who lives in **England, UK**
+- 🌱 Currently, as a hobby, I'm learning `Kotlin`, `Kubernetes` and `Android Development`
+- 🏖️ In my free time, I like to go for a walk in the beach or in a park
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/enikolas)
 
